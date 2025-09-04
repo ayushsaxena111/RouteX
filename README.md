@@ -1,2 +1,4 @@
 # RouteX
 RouteX: Smart Navigation for Optimal Path in Railway Network Using Graph Algorithms
+
+Efficient transportation systems are critical for modern cities, where effective route management can significantly reduce travel time and congestion. RouteX aims to address this challenge by providing a smart navigation solution tailored for railway networks. The project leverages graph theory to model railway stations as nodes and tracks as weighted edges, capturing real-world constraint like distance between any two stations.
